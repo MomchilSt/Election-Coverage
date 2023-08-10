@@ -1,0 +1,16 @@
+{
+  "name": "academys5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ochikov",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@types/jest": "^29.5.3",
+    "hardhat": "^2.12.6"
+  }
+}
